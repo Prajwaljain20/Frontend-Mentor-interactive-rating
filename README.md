@@ -24,12 +24,18 @@ Users should be able to:
 - See the "Thank you" card state after submitting a rating
 
 ### Screenshot
+![image](https://github.com/Prajwaljain20/Frontend-Mentor-interactive-rating/assets/76695932/a7482578-4241-4707-8ff9-de85a089f1b1)
 
+![image](https://github.com/Prajwaljain20/Frontend-Mentor-interactive-rating/assets/76695932/2a085a4d-eefa-4ce0-a7ec-28dc699452d8)
+
+![image](https://github.com/Prajwaljain20/Frontend-Mentor-interactive-rating/assets/76695932/fb092d61-c167-4543-a223-2d3dd00e2569)
+
+![image](https://github.com/Prajwaljain20/Frontend-Mentor-interactive-rating/assets/76695932/9c3e1d87-79ae-4ff1-88d1-f546b831b991)
 
 ### Links
 
-- Solution URL: []()
-- Live Site URL: []()
+- Solution URL: [Github](https://github.com/Prajwaljain20/Frontend-Mentor-interactive-rating)
+- Live Site URL: [Github pages](https://prajwaljain20.github.io/Frontend-Mentor-interactive-rating/)
 
 ## My process
 
